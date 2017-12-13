@@ -1,0 +1,85 @@
+body{
+    font-family: "Times New Roman", serif;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-size: 3em;
+    color: #FF5800;
+    text-align: center;
+}
+
+h2{
+    font-size: 2em;
+    text-decoration: underline;
+    text-align: center;
+}
+
+img{
+    
+}
+
+p{
+    text-align: center;
+    font-size: 1.4em;
+
+}
+
+ol{
+
+}
+li{
+    color: white;
+
+}
+ul{
+
+}
+
+a{
+    color: white;
+
+}
+
+table{
+    border-collapse: collapse;
+    background-color: #2EB209;
+    
+
+}
+table:hover {
+    background-color: #3CCC14;
+    
+
+}
+table, th, td{
+    border: 1px solid black;
+    
+    
+}
+
+th{
+    text-align: center;
+    padding: 0.75em;
+    font-size: 1.5em;
+}
+th:hover{
+    background-color: #a71d1d;
+    color: aqua;
+}
+
+td{
+
+    padding: 0.50em;
+}
+
+td:hover{
+    background-color: yellow;
+    color: black;
+}
+
+.dato:hover{
+    background-color: #ff8319;
+    color: black;
+}
